@@ -2,7 +2,6 @@
 
 Created an amazing Portfolio website using ReactJs
 
-![image](https://github.com/MansiJayswal/poftfolio/assets/133105782/63d46d74-ce35-4f5d-8e76-dce74cf047f2)
 
 # Getting Started with Create React App
 
